@@ -25,7 +25,7 @@ namespace Fahrzeugverwaltung
         {
             get { return _erstzulassung; }
             set {
-                if (value >= DateTime.Now.Year)
+                if (value > DateTime.Now.Year)
                 {
                     throw new ArgumentOutOfRangeException(
                    $"{nameof(value)} darf nicht in der Zukunft liegen");

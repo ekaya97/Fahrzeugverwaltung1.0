@@ -27,8 +27,7 @@ namespace Fahrzeugverwaltung
                 "Modell: " + Modell + "\n" +
                 "Erstzulassung: " + Erstzulassung + "\n" +
                 "Kennzeichen: " + Kennzeichen + "\n" +
-                                "Parkplatz: " + Program.stellplatzVerzeichnis[this.Kennzeichen] + "\n" +
-
+                "Parkplatz: " + Program.stellplatzVerzeichnis[this.Kennzeichen] + "\n" +
                 "Hubraum: " + Hubraum + "\n" +
                 "Preis: " + Anschaffungspreis + "\n\n";
             return fahrzeugDaten;

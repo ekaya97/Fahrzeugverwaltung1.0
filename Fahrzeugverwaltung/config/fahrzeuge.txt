@@ -1,7 +1,5 @@
 [
   {
-    "Hubraum": 1000,
-    "Leistung": 30,
     "Hersteller": "Volkswagen",
     "Modell": "Käfer",
     "Kennzeichen": "K-GS-01",
@@ -10,8 +8,6 @@
     "Erstzulassung": 1965
   },
   {
-    "Hubraum": 1600,
-    "Leistung": 60,
     "Hersteller": "Opel",
     "Modell": "Kadett",
     "Kennzeichen": "K-GS-02",
@@ -20,7 +16,6 @@
     "Erstzulassung": 1964
   },
   {
-    "Hubraum": 1170,
     "Hersteller": "BMW",
     "Modell": "R1200r",
     "Kennzeichen": "K-GS-03",
@@ -29,8 +24,6 @@
     "Erstzulassung": 1999
   },
   {
-    "Achsenanzahl": 2,
-    "Zuladung": 5.5,
     "Hersteller": "Mercedes",
     "Modell": "LG 315",
     "Kennzeichen": "K-GS-04",

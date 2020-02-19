@@ -22,7 +22,12 @@ namespace Fahrzeugverwaltung
 
         public static void init()
         {
-            Konfig.deserializeFromJSON();
+           // Konfig.deserializeFromJSON();
+       
+        }
+
+        public static void initEnd()
+        {
             Konfig.serializeToJSON(fahrzeuge);
             Konfig.serializeToJSON(parkhaeuser);
             Konfig.serializeToJSON(stellplatzVerzeichnis);
@@ -36,6 +41,19 @@ namespace Fahrzeugverwaltung
             }
         }
 
+        public static string fahrzeugParkplatzFinden(String kennzeichen)
+        {
+            kennzeichen = Program.ToUpperIgnoreDash(kennzeichen.Trim());
+            try
+            {
+                return Program.stellplatzVerzeichnis[kennzeichen];
+            }
+            catch (KeyNotFoundException)
+            {
+                Console.WriteLine("Fahrzeug nicht gefunden!");
+                return "n/a";
+            }
+        }
 
         public static String ausgabeFahrzeugDaten(String Kennzeichen)
         {

@@ -5,34 +5,16 @@
     "Strasse": "Westerwaldstr. 99",
     "Land": "DE",
     "PID": "P1",
-    "Stellplatzliste": [
+    "_stellplatzListe": [
       {
         "Art": 1,
         "Nummer": 100,
-        "Fahrzeug": {
-          "Hubraum": 1000,
-          "Leistung": 30,
-          "Hersteller": "Volkswagen",
-          "Modell": "Käfer",
-          "Kennzeichen": "K-GS-01",
-          "Parkplatz": null,
-          "Anschaffungspreis": 9999.0,
-          "Erstzulassung": 1965
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 1,
         "Nummer": 101,
-        "Fahrzeug": {
-          "Hubraum": 1600,
-          "Leistung": 60,
-          "Hersteller": "Opel",
-          "Modell": "Kadett",
-          "Kennzeichen": "K-GS-02",
-          "Parkplatz": null,
-          "Anschaffungspreis": 12000.0,
-          "Erstzulassung": 1964
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 1,
@@ -527,15 +509,7 @@
       {
         "Art": 2,
         "Nummer": 200,
-        "Fahrzeug": {
-          "Hubraum": 1170,
-          "Hersteller": "BMW",
-          "Modell": "R1200r",
-          "Kennzeichen": "K-GS-03",
-          "Parkplatz": null,
-          "Anschaffungspreis": 6000.0,
-          "Erstzulassung": 1999
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 2,
@@ -1035,16 +1009,7 @@
       {
         "Art": 3,
         "Nummer": 300,
-        "Fahrzeug": {
-          "Achsenanzahl": 2,
-          "Zuladung": 5.5,
-          "Hersteller": "Mercedes",
-          "Modell": "LG 315",
-          "Kennzeichen": "K-GS-04",
-          "Parkplatz": null,
-          "Anschaffungspreis": 23000.0,
-          "Erstzulassung": 1960
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 3,
@@ -1549,34 +1514,16 @@
     "Strasse": "Westerwaldstr. 99",
     "Land": "DE",
     "PID": "P1",
-    "Stellplatzliste": [
+    "_stellplatzListe": [
       {
         "Art": 1,
         "Nummer": 100,
-        "Fahrzeug": {
-          "Hubraum": 1000,
-          "Leistung": 30,
-          "Hersteller": "Volkswagen",
-          "Modell": "Käfer",
-          "Kennzeichen": "K-GS-01",
-          "Parkplatz": null,
-          "Anschaffungspreis": 9999.0,
-          "Erstzulassung": 1965
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 1,
         "Nummer": 101,
-        "Fahrzeug": {
-          "Hubraum": 1600,
-          "Leistung": 60,
-          "Hersteller": "Opel",
-          "Modell": "Kadett",
-          "Kennzeichen": "K-GS-02",
-          "Parkplatz": null,
-          "Anschaffungspreis": 12000.0,
-          "Erstzulassung": 1964
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 1,
@@ -2071,15 +2018,7 @@
       {
         "Art": 2,
         "Nummer": 200,
-        "Fahrzeug": {
-          "Hubraum": 1170,
-          "Hersteller": "BMW",
-          "Modell": "R1200r",
-          "Kennzeichen": "K-GS-03",
-          "Parkplatz": null,
-          "Anschaffungspreis": 6000.0,
-          "Erstzulassung": 1999
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 2,
@@ -2579,16 +2518,7 @@
       {
         "Art": 3,
         "Nummer": 300,
-        "Fahrzeug": {
-          "Achsenanzahl": 2,
-          "Zuladung": 5.5,
-          "Hersteller": "Mercedes",
-          "Modell": "LG 315",
-          "Kennzeichen": "K-GS-04",
-          "Parkplatz": null,
-          "Anschaffungspreis": 23000.0,
-          "Erstzulassung": 1960
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 3,
@@ -3093,34 +3023,16 @@
     "Strasse": "Westerwaldstr. 99",
     "Land": "DE",
     "PID": "P1",
-    "Stellplatzliste": [
+    "_stellplatzListe": [
       {
         "Art": 1,
         "Nummer": 100,
-        "Fahrzeug": {
-          "Hubraum": 1000,
-          "Leistung": 30,
-          "Hersteller": "Volkswagen",
-          "Modell": "Käfer",
-          "Kennzeichen": "K-GS-01",
-          "Parkplatz": null,
-          "Anschaffungspreis": 9999.0,
-          "Erstzulassung": 1965
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 1,
         "Nummer": 101,
-        "Fahrzeug": {
-          "Hubraum": 1600,
-          "Leistung": 60,
-          "Hersteller": "Opel",
-          "Modell": "Kadett",
-          "Kennzeichen": "K-GS-02",
-          "Parkplatz": null,
-          "Anschaffungspreis": 12000.0,
-          "Erstzulassung": 1964
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 1,
@@ -3615,15 +3527,7 @@
       {
         "Art": 2,
         "Nummer": 200,
-        "Fahrzeug": {
-          "Hubraum": 1170,
-          "Hersteller": "BMW",
-          "Modell": "R1200r",
-          "Kennzeichen": "K-GS-03",
-          "Parkplatz": null,
-          "Anschaffungspreis": 6000.0,
-          "Erstzulassung": 1999
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 2,
@@ -4123,16 +4027,7 @@
       {
         "Art": 3,
         "Nummer": 300,
-        "Fahrzeug": {
-          "Achsenanzahl": 2,
-          "Zuladung": 5.5,
-          "Hersteller": "Mercedes",
-          "Modell": "LG 315",
-          "Kennzeichen": "K-GS-04",
-          "Parkplatz": null,
-          "Anschaffungspreis": 23000.0,
-          "Erstzulassung": 1960
-        }
+        "Fahrzeug": null
       },
       {
         "Art": 3,
