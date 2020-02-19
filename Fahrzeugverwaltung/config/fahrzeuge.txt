@@ -1,0 +1,34 @@
+[
+  {
+    "Hersteller": "Volkswagen",
+    "Modell": "Käfer",
+    "Kennzeichen": "K-GS-01",
+    "Parkplatz": null,
+    "Anschaffungspreis": 9999.0,
+    "Erstzulassung": 1965
+  },
+  {
+    "Hersteller": "Opel",
+    "Modell": "Kadett",
+    "Kennzeichen": "K-GS-02",
+    "Parkplatz": null,
+    "Anschaffungspreis": 12000.0,
+    "Erstzulassung": 1964
+  },
+  {
+    "Hersteller": "BMW",
+    "Modell": "R1200r",
+    "Kennzeichen": "K-GS-03",
+    "Parkplatz": null,
+    "Anschaffungspreis": 6000.0,
+    "Erstzulassung": 1999
+  },
+  {
+    "Hersteller": "Mercedes",
+    "Modell": "LG 315",
+    "Kennzeichen": "K-GS-04",
+    "Parkplatz": null,
+    "Anschaffungspreis": 23000.0,
+    "Erstzulassung": 1960
+  }
+]

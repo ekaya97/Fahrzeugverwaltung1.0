@@ -1,0 +1,4613 @@
+[
+  {
+    "Ort": "Koeln",
+    "PLZ": 51105,
+    "Strasse": "Westerwaldstr. 99",
+    "Land": "DE",
+    "PID": "P1",
+    "_stellplatzListe": [
+      {
+        "Art": 1,
+        "Nummer": 100,
+        "Fahrzeug": {
+          "Hersteller": "Volkswagen",
+          "Modell": "Käfer",
+          "Kennzeichen": "K-GS-01",
+          "Parkplatz": null,
+          "Anschaffungspreis": 9999.0,
+          "Erstzulassung": 1965
+        }
+      },
+      {
+        "Art": 1,
+        "Nummer": 101,
+        "Fahrzeug": {
+          "Hersteller": "Opel",
+          "Modell": "Kadett",
+          "Kennzeichen": "K-GS-02",
+          "Parkplatz": null,
+          "Anschaffungspreis": 12000.0,
+          "Erstzulassung": 1964
+        }
+      },
+      {
+        "Art": 1,
+        "Nummer": 102,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 103,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 104,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 105,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 106,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 107,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 108,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 109,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 110,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 111,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 112,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 113,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 114,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 115,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 116,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 117,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 118,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 119,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 120,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 121,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 122,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 123,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 124,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 125,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 126,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 127,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 128,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 129,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 130,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 131,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 132,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 133,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 134,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 135,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 136,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 137,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 138,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 139,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 140,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 141,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 142,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 143,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 144,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 145,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 146,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 147,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 148,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 149,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 150,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 151,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 152,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 153,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 154,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 155,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 156,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 157,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 158,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 159,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 160,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 161,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 162,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 163,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 164,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 165,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 166,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 167,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 168,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 169,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 170,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 171,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 172,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 173,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 174,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 175,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 176,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 177,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 178,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 179,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 180,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 181,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 182,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 183,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 184,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 185,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 186,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 187,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 188,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 189,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 190,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 191,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 192,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 193,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 194,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 195,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 196,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 197,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 198,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 199,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 200,
+        "Fahrzeug": {
+          "Hersteller": "BMW",
+          "Modell": "R1200r",
+          "Kennzeichen": "K-GS-03",
+          "Parkplatz": null,
+          "Anschaffungspreis": 6000.0,
+          "Erstzulassung": 1999
+        }
+      },
+      {
+        "Art": 2,
+        "Nummer": 201,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 202,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 203,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 204,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 205,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 206,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 207,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 208,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 209,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 210,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 211,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 212,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 213,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 214,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 215,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 216,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 217,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 218,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 219,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 220,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 221,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 222,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 223,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 224,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 225,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 226,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 227,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 228,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 229,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 230,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 231,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 232,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 233,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 234,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 235,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 236,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 237,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 238,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 239,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 240,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 241,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 242,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 243,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 244,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 245,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 246,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 247,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 248,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 249,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 250,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 251,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 252,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 253,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 254,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 255,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 256,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 257,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 258,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 259,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 260,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 261,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 262,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 263,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 264,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 265,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 266,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 267,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 268,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 269,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 270,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 271,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 272,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 273,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 274,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 275,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 276,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 277,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 278,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 279,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 280,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 281,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 282,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 283,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 284,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 285,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 286,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 287,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 288,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 289,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 290,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 291,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 292,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 293,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 294,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 295,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 296,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 297,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 298,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 299,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 300,
+        "Fahrzeug": {
+          "Hersteller": "Mercedes",
+          "Modell": "LG 315",
+          "Kennzeichen": "K-GS-04",
+          "Parkplatz": null,
+          "Anschaffungspreis": 23000.0,
+          "Erstzulassung": 1960
+        }
+      },
+      {
+        "Art": 3,
+        "Nummer": 301,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 302,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 303,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 304,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 305,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 306,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 307,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 308,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 309,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 310,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 311,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 312,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 313,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 314,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 315,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 316,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 317,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 318,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 319,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 320,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 321,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 322,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 323,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 324,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 325,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 326,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 327,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 328,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 329,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 330,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 331,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 332,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 333,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 334,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 335,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 336,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 337,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 338,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 339,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 340,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 341,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 342,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 343,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 344,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 345,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 346,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 347,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 348,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 349,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 350,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 351,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 352,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 353,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 354,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 355,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 356,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 357,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 358,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 359,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 360,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 361,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 362,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 363,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 364,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 365,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 366,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 367,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 368,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 369,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 370,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 371,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 372,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 373,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 374,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 375,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 376,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 377,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 378,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 379,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 380,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 381,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 382,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 383,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 384,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 385,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 386,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 387,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 388,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 389,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 390,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 391,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 392,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 393,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 394,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 395,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 396,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 397,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 398,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 399,
+        "Fahrzeug": null
+      }
+    ]
+  },
+  {
+    "Ort": "Koeln",
+    "PLZ": 51105,
+    "Strasse": "Westerwaldstr. 99",
+    "Land": "DE",
+    "PID": "P1",
+    "_stellplatzListe": [
+      {
+        "Art": 1,
+        "Nummer": 100,
+        "Fahrzeug": {
+          "Hersteller": "Volkswagen",
+          "Modell": "Käfer",
+          "Kennzeichen": "K-GS-01",
+          "Parkplatz": null,
+          "Anschaffungspreis": 9999.0,
+          "Erstzulassung": 1965
+        }
+      },
+      {
+        "Art": 1,
+        "Nummer": 101,
+        "Fahrzeug": {
+          "Hersteller": "Opel",
+          "Modell": "Kadett",
+          "Kennzeichen": "K-GS-02",
+          "Parkplatz": null,
+          "Anschaffungspreis": 12000.0,
+          "Erstzulassung": 1964
+        }
+      },
+      {
+        "Art": 1,
+        "Nummer": 102,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 103,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 104,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 105,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 106,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 107,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 108,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 109,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 110,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 111,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 112,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 113,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 114,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 115,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 116,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 117,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 118,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 119,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 120,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 121,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 122,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 123,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 124,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 125,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 126,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 127,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 128,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 129,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 130,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 131,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 132,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 133,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 134,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 135,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 136,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 137,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 138,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 139,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 140,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 141,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 142,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 143,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 144,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 145,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 146,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 147,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 148,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 149,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 150,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 151,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 152,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 153,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 154,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 155,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 156,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 157,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 158,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 159,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 160,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 161,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 162,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 163,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 164,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 165,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 166,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 167,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 168,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 169,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 170,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 171,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 172,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 173,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 174,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 175,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 176,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 177,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 178,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 179,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 180,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 181,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 182,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 183,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 184,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 185,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 186,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 187,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 188,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 189,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 190,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 191,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 192,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 193,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 194,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 195,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 196,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 197,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 198,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 199,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 200,
+        "Fahrzeug": {
+          "Hersteller": "BMW",
+          "Modell": "R1200r",
+          "Kennzeichen": "K-GS-03",
+          "Parkplatz": null,
+          "Anschaffungspreis": 6000.0,
+          "Erstzulassung": 1999
+        }
+      },
+      {
+        "Art": 2,
+        "Nummer": 201,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 202,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 203,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 204,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 205,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 206,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 207,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 208,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 209,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 210,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 211,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 212,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 213,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 214,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 215,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 216,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 217,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 218,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 219,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 220,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 221,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 222,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 223,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 224,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 225,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 226,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 227,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 228,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 229,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 230,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 231,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 232,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 233,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 234,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 235,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 236,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 237,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 238,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 239,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 240,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 241,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 242,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 243,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 244,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 245,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 246,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 247,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 248,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 249,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 250,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 251,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 252,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 253,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 254,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 255,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 256,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 257,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 258,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 259,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 260,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 261,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 262,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 263,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 264,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 265,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 266,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 267,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 268,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 269,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 270,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 271,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 272,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 273,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 274,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 275,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 276,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 277,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 278,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 279,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 280,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 281,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 282,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 283,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 284,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 285,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 286,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 287,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 288,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 289,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 290,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 291,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 292,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 293,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 294,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 295,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 296,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 297,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 298,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 299,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 300,
+        "Fahrzeug": {
+          "Hersteller": "Mercedes",
+          "Modell": "LG 315",
+          "Kennzeichen": "K-GS-04",
+          "Parkplatz": null,
+          "Anschaffungspreis": 23000.0,
+          "Erstzulassung": 1960
+        }
+      },
+      {
+        "Art": 3,
+        "Nummer": 301,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 302,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 303,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 304,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 305,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 306,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 307,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 308,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 309,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 310,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 311,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 312,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 313,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 314,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 315,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 316,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 317,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 318,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 319,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 320,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 321,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 322,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 323,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 324,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 325,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 326,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 327,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 328,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 329,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 330,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 331,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 332,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 333,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 334,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 335,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 336,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 337,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 338,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 339,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 340,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 341,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 342,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 343,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 344,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 345,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 346,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 347,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 348,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 349,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 350,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 351,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 352,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 353,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 354,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 355,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 356,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 357,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 358,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 359,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 360,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 361,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 362,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 363,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 364,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 365,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 366,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 367,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 368,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 369,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 370,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 371,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 372,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 373,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 374,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 375,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 376,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 377,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 378,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 379,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 380,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 381,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 382,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 383,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 384,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 385,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 386,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 387,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 388,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 389,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 390,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 391,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 392,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 393,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 394,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 395,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 396,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 397,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 398,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 399,
+        "Fahrzeug": null
+      }
+    ]
+  },
+  {
+    "Ort": "Koeln",
+    "PLZ": 51105,
+    "Strasse": "Westerwaldstr. 99",
+    "Land": "DE",
+    "PID": "P1",
+    "_stellplatzListe": [
+      {
+        "Art": 1,
+        "Nummer": 100,
+        "Fahrzeug": {
+          "Hersteller": "Volkswagen",
+          "Modell": "Käfer",
+          "Kennzeichen": "K-GS-01",
+          "Parkplatz": null,
+          "Anschaffungspreis": 9999.0,
+          "Erstzulassung": 1965
+        }
+      },
+      {
+        "Art": 1,
+        "Nummer": 101,
+        "Fahrzeug": {
+          "Hersteller": "Opel",
+          "Modell": "Kadett",
+          "Kennzeichen": "K-GS-02",
+          "Parkplatz": null,
+          "Anschaffungspreis": 12000.0,
+          "Erstzulassung": 1964
+        }
+      },
+      {
+        "Art": 1,
+        "Nummer": 102,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 103,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 104,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 105,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 106,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 107,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 108,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 109,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 110,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 111,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 112,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 113,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 114,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 115,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 116,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 117,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 118,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 119,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 120,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 121,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 122,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 123,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 124,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 125,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 126,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 127,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 128,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 129,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 130,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 131,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 132,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 133,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 134,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 135,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 136,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 137,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 138,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 139,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 140,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 141,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 142,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 143,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 144,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 145,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 146,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 147,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 148,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 149,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 150,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 151,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 152,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 153,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 154,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 155,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 156,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 157,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 158,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 159,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 160,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 161,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 162,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 163,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 164,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 165,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 166,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 167,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 168,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 169,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 170,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 171,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 172,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 173,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 174,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 175,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 176,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 177,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 178,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 179,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 180,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 181,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 182,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 183,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 184,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 185,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 186,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 187,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 188,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 189,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 190,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 191,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 192,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 193,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 194,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 195,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 196,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 197,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 198,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 1,
+        "Nummer": 199,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 200,
+        "Fahrzeug": {
+          "Hersteller": "BMW",
+          "Modell": "R1200r",
+          "Kennzeichen": "K-GS-03",
+          "Parkplatz": null,
+          "Anschaffungspreis": 6000.0,
+          "Erstzulassung": 1999
+        }
+      },
+      {
+        "Art": 2,
+        "Nummer": 201,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 202,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 203,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 204,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 205,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 206,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 207,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 208,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 209,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 210,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 211,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 212,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 213,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 214,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 215,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 216,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 217,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 218,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 219,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 220,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 221,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 222,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 223,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 224,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 225,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 226,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 227,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 228,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 229,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 230,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 231,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 232,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 233,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 234,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 235,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 236,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 237,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 238,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 239,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 240,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 241,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 242,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 243,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 244,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 245,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 246,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 247,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 248,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 249,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 250,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 251,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 252,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 253,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 254,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 255,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 256,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 257,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 258,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 259,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 260,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 261,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 262,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 263,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 264,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 265,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 266,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 267,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 268,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 269,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 270,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 271,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 272,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 273,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 274,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 275,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 276,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 277,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 278,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 279,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 280,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 281,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 282,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 283,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 284,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 285,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 286,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 287,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 288,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 289,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 290,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 291,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 292,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 293,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 294,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 295,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 296,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 297,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 298,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 2,
+        "Nummer": 299,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 300,
+        "Fahrzeug": {
+          "Hersteller": "Mercedes",
+          "Modell": "LG 315",
+          "Kennzeichen": "K-GS-04",
+          "Parkplatz": null,
+          "Anschaffungspreis": 23000.0,
+          "Erstzulassung": 1960
+        }
+      },
+      {
+        "Art": 3,
+        "Nummer": 301,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 302,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 303,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 304,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 305,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 306,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 307,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 308,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 309,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 310,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 311,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 312,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 313,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 314,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 315,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 316,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 317,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 318,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 319,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 320,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 321,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 322,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 323,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 324,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 325,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 326,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 327,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 328,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 329,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 330,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 331,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 332,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 333,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 334,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 335,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 336,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 337,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 338,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 339,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 340,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 341,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 342,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 343,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 344,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 345,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 346,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 347,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 348,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 349,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 350,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 351,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 352,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 353,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 354,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 355,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 356,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 357,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 358,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 359,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 360,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 361,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 362,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 363,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 364,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 365,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 366,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 367,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 368,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 369,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 370,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 371,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 372,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 373,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 374,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 375,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 376,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 377,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 378,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 379,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 380,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 381,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 382,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 383,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 384,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 385,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 386,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 387,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 388,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 389,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 390,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 391,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 392,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 393,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 394,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 395,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 396,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 397,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 398,
+        "Fahrzeug": null
+      },
+      {
+        "Art": 3,
+        "Nummer": 399,
+        "Fahrzeug": null
+      }
+    ]
+  }
+]
